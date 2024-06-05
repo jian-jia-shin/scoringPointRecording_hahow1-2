@@ -9,3 +9,6 @@ hahow課程【跨平台 APP - React Native 快速學習攻略】 作業成果_�
 # 檔案內容
 【作業2】的程式碼:App.js
 【作業2】結果截圖
+
+# 使用的圖片
+撲克花色圖片來源：https://en.wikipedia.org/wiki/Playing_card
